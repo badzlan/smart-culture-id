@@ -1,0 +1,14 @@
+{
+   "another": "Another Page",
+   "-- Sumatera": {
+      "type": "separator",
+      "title": "Sumatera"
+   },
+   "aceh": "Nanggroe Aceh Darussalam",
+   "sumut": "Sumatera Utara",
+   "-- Jawa": {
+      "type": "separator",
+      "title": "Jawa"
+   },
+   "banten": ""
+}

@@ -2,12 +2,14 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
-  project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s | Smart Culture ID'
+    }
   },
-  chat: {
-    link: 'https://discord.com',
+  logo: <span>Smart Culture ID</span>,
+  project: {
+    link: 'https://github.com/badzlan/nextra-testing',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
