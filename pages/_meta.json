@@ -8,14 +8,10 @@
     "title": "Provinsi",
     "type": "page"
   },
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://github.com/badzlan",
+    "href": "mailto:badzlandhabith05@gmail.com",
     "newWindow": true
   }
 }
