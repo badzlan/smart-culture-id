@@ -30,5 +30,14 @@
    },
    "bali": "",
    "nusa-tenggara-barat": "",
-   "nusa-tenggara-timur": ""
+   "nusa-tenggara-timur": "",
+   "-- Kalimantan": {
+      "type": "separator",
+      "title": "Kalimantan"
+   },
+   "kalimantan-barat": "",
+   "kalimantan-tengah": "",
+   "kalimantan-selatan": "",
+   "kalimantan-timur": "",
+   "kalimantan-utara": ""
 }
