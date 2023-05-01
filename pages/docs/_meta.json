@@ -2,18 +2,18 @@
    "another": "Another Page",
    "-- Sumatera": {
       "type": "separator",
-      "title": "Sumatera"
+      "title": "Sumatra"
    },
    "aceh": "Aceh",
-   "sumut": "Sumatera Utara",
-   "sumbar": "Sumatera Barat",
-   "riau": "Riau",
-   "kepri": "Kepulauan Riau",
-   "jambi": "Jambi",
-   "sumsel": "Sumatera Selatan",
-   "bengkulu": "Bengkulu",
-   "babel": "Kepulauan Bangka Belitung",
-   "lampung": "Lampung",
+   "sumatra-utara": "",
+   "sumatra-barat": "",
+   "riau": "",
+   "kepulauan-riau": "",
+   "jambi": "",
+   "sumatra-selatan": "",
+   "bengkulu": "",
+   "kepulauan-bangka-belitung": "",
+   "lampung": "",
    "-- Jawa": {
       "type": "separator",
       "title": "Jawa"
