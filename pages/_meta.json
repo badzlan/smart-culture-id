@@ -4,8 +4,8 @@
     "type": "page",
     "display": "hidden"
   },
-  "docs": {
-    "title": "Docs",
+  "provinsi": {
+    "title": "Provinsi",
     "type": "page"
   },
   "about": {
