@@ -9,9 +9,9 @@ const config: DocsThemeConfig = {
   },
   logo: <span>Smart Culture ID</span>,
   project: {
-    link: 'https://github.com/badzlan/nextra-testing',
+    link: 'https://github.com/badzlan/nextra-testing/',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/badzlan/nextra-testing/blob/main/',
   footer: {
     text: 'Nextra Docs Template',
   },

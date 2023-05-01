@@ -4,7 +4,7 @@
       "type": "separator",
       "title": "Sumatra"
    },
-   "aceh": "Aceh",
+   "aceh": "",
    "sumatra-utara": "",
    "sumatra-barat": "",
    "riau": "",
@@ -19,9 +19,16 @@
       "title": "Jawa"
    },
    "banten": "",
-   "dki-jakarta": "DKI jakarta",
+   "dki-jakarta": "DKI Jakarta",
    "jawa-barat": "",
    "jawa-tengah": "",
    "di-yogyakarta": "DI Yogyakarta",
-   "jawa-timur": ""
+   "jawa-timur": "",
+   "-- Nusa Tenggara": {
+      "type": "separator",
+      "title": "Nusa Tenggara"
+   },
+   "bali": "",
+   "nusa-tenggara-barat": "",
+   "nusa-tenggara-timur": ""
 }
