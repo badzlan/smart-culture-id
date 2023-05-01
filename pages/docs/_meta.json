@@ -4,8 +4,16 @@
       "type": "separator",
       "title": "Sumatera"
    },
-   "aceh": "Nanggroe Aceh Darussalam",
+   "aceh": "Aceh",
    "sumut": "Sumatera Utara",
+   "sumbar": "Sumatera Barat",
+   "riau": "Riau",
+   "kepri": "Kepulauan Riau",
+   "jambi": "Jambi",
+   "sumsel": "Sumatera Selatan",
+   "bengkulu": "Bengkulu",
+   "babel": "Kepulauan Bangka Belitung",
+   "lampung": "Lampung",
    "-- Jawa": {
       "type": "separator",
       "title": "Jawa"
