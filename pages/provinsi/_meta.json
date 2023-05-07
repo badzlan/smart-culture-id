@@ -48,5 +48,12 @@
    "sulawesi-selatan": "",
    "sulawesi-tenggara": "",
    "gorontalo": "",
-   "sulawesi-barat": ""
+   "sulawesi-barat": "",
+   "-- Maluku": {
+      "type": "separator",
+      "title": "Maluku"
+   },
+   "maluku": "",
+   "maluku-utara": ""
+
 }
