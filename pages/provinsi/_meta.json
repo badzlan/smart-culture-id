@@ -54,6 +54,11 @@
       "title": "Maluku"
    },
    "maluku": "",
-   "maluku-utara": ""
-
+   "maluku-utara": "",
+   "-- Papua": {
+      "type": "separator",
+      "title":  "Papua"
+   },
+   "papua": "",
+   "papua-barat": ""
 }
