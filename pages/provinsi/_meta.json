@@ -1,5 +1,4 @@
 {
-   "another": "Another Page",
    "-- Sumatera": {
       "type": "separator",
       "title": "Sumatra"
@@ -39,5 +38,15 @@
    "kalimantan-tengah": "",
    "kalimantan-selatan": "",
    "kalimantan-timur": "",
-   "kalimantan-utara": ""
+   "kalimantan-utara": "",
+   "-- Sulawesi": {
+      "type": "separator",
+      "title": "Sulawesi"
+   },
+   "sulawesi-utara": "",
+   "sulawesi-tengah": "",
+   "sulawesi-selatan": "",
+   "sulawesi-tenggara": "",
+   "gorontalo": "",
+   "sulawesi-barat": ""
 }
