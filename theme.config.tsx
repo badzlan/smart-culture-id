@@ -13,8 +13,8 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/badzlan/nextra-testing/blob/main/',
   footer: {
-    text: 'Nextra Docs Template',
-  },
+    text: <span>Copyright © {new Date().getFullYear()} - <a href="https://smartcultureid.vercel.app" target="_blank">Smart Culture ID</a>. </span>,
+  }
 }
 
 export default config
