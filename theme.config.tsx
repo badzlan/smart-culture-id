@@ -2,6 +2,13 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="Smart Culture ID" />
+      <meta property="og:description" content="Platform digital yang memuat informasi tentang budaya dan tradisi dari setiap provinsi di Indonesia. Platform ini bertujuan untuk memperkenalkan, mempromosikan, dan melestarikan kekayaan budaya Indonesia kepada masyarakat Indonesia dan dunia." />
+    </>
+  ),
   useNextSeoProps() {
     return {
       titleTemplate: '%s | Smart Culture ID'
