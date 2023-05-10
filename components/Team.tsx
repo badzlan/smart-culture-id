@@ -2,8 +2,8 @@ const Team = () => {
 	return (
 		<>
 			<div className="mt-40 mb-20 text-center">
-				<h3 className="text-2xl md:text-5xl mb-10 font-semibold">Tim Kami</h3>
-				<p className="text-gray-500 md:text-xl leading-normal">
+				<h3 className="text-4xl md:text-5xl mb-10 font-semibold">Tim Kami</h3>
+				<p className="text-gray-500 text-xl leading-normal">
 					Figur di balik Smart Cuture ID
 				</p>
 			</div>
