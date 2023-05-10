@@ -19,7 +19,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/badzlan/nextra-testing/',
   },
   primaryHue: 200,
-  docsRepositoryBase: 'https://github.com/badzlan/nextra-testing/blob/main/',
+  docsRepositoryBase: 'https://github.com/badzlan/smart-culture-id/blob/main/',
   footer: {
     text: <span>Copyright © {new Date().getFullYear()} - <a href="https://smartcultureid.vercel.app" target="_blank">Smart Culture ID</a>. </span>,
   }
