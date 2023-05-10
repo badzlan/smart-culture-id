@@ -47,7 +47,7 @@ const Team = () => {
 						<div className="flex flex-col gap-3">
 							<div className="grow-0 shrink-0 basis-auto w-full">
 								<img
-									src="https://mdbootstrap.com/img/new/avatars/2.jpg"
+									src="/abiyyu.jpeg"
 									alt="Trendy Pants and Shoes"
 									className="w-full rounded-md mb-6 lg:mb-0"
 								/>
