@@ -17,7 +17,7 @@ const Hero = () => {
 				href="/provinsi/aceh"
 				className="bg-sky-500 text-white px-5 py-4 text-lg rounded-lg tracking-wider font-semibold hover:text-slate-300"
 			>
-				Ayo Eksplor
+				Ayo Eksplor →
 			</Link>
 		</div>
 	);
