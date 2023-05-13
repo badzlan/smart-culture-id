@@ -1,23 +1,45 @@
-# Nextra Docs Template 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" width="400" alt="NextJs Logo"></a></p>
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+## Smart Culture ID
+Smart Platform for Indonesian Culture from I/O Fest Project Competition.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+Project Link : https://smartcultureid.vercel.app/
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+Technology :
+- [Next JS](https://nextjs.org/).
+- [TailwindCSS](https://tailwindcss.com/).
+- [TypeScript](https://www.typescriptlang.org/).
+- [Nextra](https://nextra.site/).
 
-## Quick Start
+## Prerequisite
+- Already install [nodejs](https://nodejs.org/).
+- Already install [npm](https://www.npmjs.com/).
 
-Click the button to clone this repository and deploy it on Vercel:
+## Step by step installation
+#### 1. Clone this repository
+```
+git clone https://github.com/badzlan/smart-culture-id.git
+```
+or 
+#### Download the zip file
+![download zip](https://github.com/0x1m4o/Industry-Project/blob/main/public/img/image.png)
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+#### 2. Go to directory 
+```
+cd smart-culture-id
+```
 
-## Local Development
+#### 3. Install dependency with npm
+```
+npm install
+```
 
-First, run `pnpm i` to install the dependencies.
+#### 4. Start the server
+```
+npm run dev
+```
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+## Authors
+- [@badzlan](https://github.com/badzlan)
+- [@ridwanalfarezi](https://github.com/ridwanalfarezi)
+- [@ASM-Bruh1125](https://github.com/ASM-Bruh1125)
